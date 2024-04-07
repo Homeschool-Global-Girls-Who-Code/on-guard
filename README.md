@@ -1,5 +1,5 @@
 # How to Use Our Prototype
-1. Go to https://on-guard.streamlit.app/. Then go to the Product Demo tab.
+1. Go to https://on-guard-1.streamlit.app/. Then go to the Product Demo tab.
 2. Upload [sample text/screenshot conversation(s)](https://drive.google.com/file/d/1S3bLQbUPlTpDUQyqbKFTAOfcemzW-52f/view?usp=drive_link) in the text area or file uploader.
 3. Type an email address and mobile number (start with the plus sign then country code, e.g. +63) in the spaces provided to receive alerts.
 4. Click the submit button. Wait for a few seconds to see results.
