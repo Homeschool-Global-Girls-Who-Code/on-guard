@@ -55,6 +55,8 @@ with col2:
    logo = Image.open("on_guard_logo.jpg")
    st.image(logo, width=400)
 
+st.download_button("Download sample conversations", data="file", file_name="sample_conversations.zip", use_container_width=True)
+
 with st.form(key="my_form", clear_on_submit=True):
    text = st.text_area("Text to analyze")
    images = st.file_uploader(label="Upload images", type=["png", "jpg", "jpeg"], accept_multiple_files=True)
